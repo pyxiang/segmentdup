@@ -15,7 +15,7 @@ A simple segmentduplication sequence annotation tool for sniffles SV result.
 > `<`bp`>`          &nbsp;set the range of sequence  
 > `<`dataset`>`     &nbsp;the segmentduplication sequence that you refer
 
-##Work Flow
+###Work Flow
 
 1. Input the sniffles SV result and range of the chrmosome position 
 
