@@ -10,7 +10,7 @@ A simple segmentduplication sequence annotation tool for sniffles SV result.
 >Segmentduplication sequence annotation for sniffles vcf  
 
 >optional arguments:   
-> `<`vcf`>`         	&nbsp;sniffles vcf file  
+> `<`vcf`>`         	&nbsp;sniffles vcf file including path  
 > `<`outfile`>`     &nbsp;output filename including path  
 > `<`bp`>`          &nbsp;set the range of sequence  
 > `<`dataset`>`     &nbsp;the segmentduplication sequence that you refer, including path
