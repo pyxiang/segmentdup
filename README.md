@@ -25,9 +25,7 @@ A simple segmentduplication sequence annotation tool for sniffles SV result.
 
 
 
-
-
-##Reference Dataset
+##Reference Dataset  
 dataset was downloaded form [http://hgdownload.soe.ucsc.edu/goldenPath/hg19/database/genomicSuperDups.txt.gz ](http://hgdownload.soe.ucsc.edu/goldenPath/hg19/database/genomicSuperDups.txt.gz)
 
 
