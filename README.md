@@ -1,9 +1,6 @@
-Segmentduplication Sequence Annotation Tool for Sniffles  
-=
+## Segmentduplication Sequence Annotation Tool for Sniffles  
 A simple segmentduplication sequence annotation tool for sniffles SV result.  
-
-Usage  
-  
+### Usage   
 
 >python3 segmentduplication_anno.py `<`vcf`>` `<`outfile`>` `<`bp`>` `<`dataset`>`  
 >usage:segmentduplication_anno.py [options]  
@@ -16,7 +13,7 @@ Usage
 > `<`bp`>`          &nbsp;set the range of sequence  
 > `<`dataset`>`     &nbsp;the segmentduplication sequence that you refer
 
-##Work Flow
+### Work Flow
 
 1. Input the sniffles SV result and range of the chrmosome position 
 
@@ -26,9 +23,10 @@ Usage
 
 
 
-##Reference Dataset  
+### Reference Dataset  
 dataset was downloaded form [http://hgdownload.soe.ucsc.edu/goldenPath/hg19/database/genomicSuperDups.txt.gz ](http://hgdownload.soe.ucsc.edu/goldenPath/hg19/database/genomicSuperDups.txt.gz)
 
 
 
 
+  
