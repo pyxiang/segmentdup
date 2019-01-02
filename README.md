@@ -2,13 +2,10 @@ Segmentduplication Sequence Annotation Tool for Sniffles
 =
 A simple segmentduplication sequence annotation tool for sniffles SV result.  
 Usage
->python3 segmentduplication_anno.py `<`vcf`>` `<`outfile`>` `<`bp`>` `<`dataset`>`
+>python3 segmentduplication_anno.py `<`vcf`>` `<`outfile`>` `<`bp`>` `<`dataset`>`  
+>usage:segmentduplication_anno.py [options]  
 
->usage:segmentduplication_anno.py [options]
-
-
->Segmentduplication sequence annotation for sniffles vcf
-
+>Segmentduplication sequence annotation for sniffles vcf  
 
 >optional arguments:   
 > `<`vcf`>`         &nbsp;sniffles vcf file  
