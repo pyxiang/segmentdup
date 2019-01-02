@@ -21,7 +21,7 @@ A simple segmentduplication sequence annotation tool for sniffles SV result.
 
 3. If the range of the two breakpoints of sniffles result is covered by dataset, and the strand direction is the same as the dataset, the result will be annotated   
 
-3. Output the annotated result, including sv id and dataset id
+3. Output the annotated result, including SV id and dataset id
 
 
 
